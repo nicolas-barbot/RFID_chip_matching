@@ -1,7 +1,11 @@
 Optimal Matching of UHF RFID chip
 
-This script allows one to find the optimal antenna impedance to maximize the read range in free space. The principle relies on finding the optimal trade-off between the received power by the tag and modulated power sent to the reader. This matching is function of the tag sensitivity and states, and the transmitted power and sensitivity of the reader. Compared to classical conjugate impedance matching, we show that this new approach can increase the read range by 22\% and 8\% for a semi-passive tag based on Monza X8-K Dura chip and a passive tag based on Monza R6-P chip, respectively. 
+This script allows one to find the optimal antenna impedance to maximize the read range in free space. The principle relies on finding the optimal trade-off between the received power by the tag and modulated power sent to the reader. This matching is function of the tag sensitivity and states, and the transmitted power and sensitivity of the reader. Compared to classical conjugate impedance matching, we show that this new approach can increase the read range by 22% and 8% for a semi-passive tag based on Monza X8-K Dura chip and a passive tag based on Monza R6-P chip, respectively. 
 
 Citing this work:
 
 N. Barbot, and I. Prodan, “Optimal Impedance Matching for UHF RFID Chip,” in in 2023 IEEE International Conference on RFID (RFID), Seattle, WA, USA, Jun. 2023, pp. 1–6.
+
+and/or
+
+N. Barbot, I. Prodan and P. Nikitin, "A Practical Guide to Optimal Impedance Matching for UHF RFID Chip," in IEEE Journal of Radio Frequency Identification, vol. 8, pp. 145-153, 2024
